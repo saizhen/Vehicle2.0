@@ -1,0 +1,13 @@
+# 忽略 Keil 产生的临时文件
+*.obj
+*.lst
+*.lnp
+*.htm
+*.build_log.htm
+*.dep
+*._ia
+*.uvgui.*
+*.uvguix.*
+# 忽略编译输出文件夹
+Listings/
+Objects/
